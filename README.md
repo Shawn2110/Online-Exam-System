@@ -30,7 +30,7 @@
 #### First Clone the project
 
 ```
-git clone  https://github.com/Aishwarya2701/Online-Exam-System.git
+git clone  https://github.com/shawn2110/Online-Exam-System.git
 cd Exam-Portal
 ```
 
